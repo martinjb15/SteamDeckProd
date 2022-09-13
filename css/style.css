@@ -1,3 +1,4 @@
+/* response coloums */
 .container {
     display: block;
     width: 100%;
@@ -32,4 +33,15 @@
     .col-34th {
         width: 100%;
     }
+}
+
+/* flex nav */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+header li{
+    list-style: none;
+    display: inline-block;
 }
