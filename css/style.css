@@ -9,39 +9,32 @@
     flex-wrap: wrap;
 }
 
-.col-third {
+.col-md {
     width: 33.3%;
 }
 
-.col-half {
+.col-lg {
     width: 50%;
 }
 
-.col-4th {
+.col-sm {
     width: 25%;
 }
 
-.col-34th {
+.col-el {
     width: 75%;
 }
 
 @media screen and (max-width: 600px) {
 
-    .col-third,
-    .col-4th,
-    .col-half,
-    .col-34th {
+    .col-sm,
+    .col-md,
+    .col-lg,
+    .col-el {
         width: 100%;
     }
-}
-
-/* flex nav */
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: right;
 }
 header li{
     list-style: none;
     display: inline-block;
-}
+} 
