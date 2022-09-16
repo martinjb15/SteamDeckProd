@@ -1,3 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+}
+nav{
+    background-color: #417a9b;
+}
+#techspecs{
+    text-align: center;
+}
+.sec1{
+    background-color: blueviolet;
+}
+#navlink{
+    text-align: right;
+    font-size: large;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+} 
 /* response columns */
 .container {
     display: block;
@@ -34,7 +55,4 @@
         width: 100%;
     }
 }
-header li{
-    list-style: none;
-    display: inline-block;
-} 
+
