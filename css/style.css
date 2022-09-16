@@ -11,6 +11,9 @@ nav{
 .sec1{
     background-color: blueviolet;
 }
+.sdeckimg{
+    height: 100%;
+}
 #navlink{
     text-align: right;
     font-size: large;
