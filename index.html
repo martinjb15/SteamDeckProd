@@ -1,61 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Steam Deck</title>
     <link rel="stylesheet" href="css/style.css" />
-</head>
-<body>
+  </head>
+  <body>
     <!-- create navbar flex -->
     <header>
-        <nav class="container">
-            <div class="row">
-                <div class="col-md">
-                    <a href="#">
-                    <img id="sdeckimg" class="col-lg" src="https://cdn.cloudflare.steamstatic.com/steamdeck/images/sd_logo_gradient_animated.png" alt="steam deck logo">
-                    </a>
-                </div>
-                <div class="col-lg">
-                    <ul id="navlink">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Sign Up</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+      <nav class="container">
+        <div class="row">
+          <div class="col-md">
+            <a href="#">
+              <img
+                id="sdeckimg"
+                class="col-lg"
+                src="https://cdn.cloudflare.steamstatic.com/steamdeck/images/sd_logo_gradient_animated.png"
+                alt="steam deck logo"
+              />
+            </a>
+          </div>
+          <div class="col-lg">
+            <ul id="navlink">
+              <li><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Sign Up</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </header>
-<!-- first section  -->
-<section class="container">
-    <video width="100%" height="auto" autoplay>
-    <source src="https://cdn.cloudflare.steamstatic.com/steamdeck/images/video/trailerloop_short.mp4?origin=https://store.steampowered.com/" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
-</section>
-<section class="container sec1">
-    <div class="row">
+    <!-- first section  -->
+    <section class="container">
+      <video width="100%" height="auto" autoplay loop>
+        <source
+          src="https://cdn.cloudflare.steamstatic.com/steamdeck/images/video/trailerloop_short.mp4?origin=https://store.steampowered.com/"
+          type="video/mp4"
+        />
+        Your browser does not support the video tag.
+      </video>
+    </section>
+    <section class="container sec1">
+      <div class="row">
+        <div class="col-md"></div>
         <div class="col-md">
-
+          <h1 id="techspecs">Tech Specs</h1>
         </div>
-        <div class="col-md">
-            <h1 id="techspecs">Tech Specs</h1>
-        </div>
-        <div class="col-md">
-
-        </div>
-    </div>
-    
-</section>
-<section class="container">
-
-</section>
-<section class="container">
-
-</section>
-<footer>
- 
-</footer>
-</body>
+        <div class="col-md"></div>
+      </div>
+      <div class="row">
+        <table style="width: 100%;">
+            <tr>
+                <th>Compute</th>
+            </tr>
+            <tr>
+                <td>Processor</td>
+                <td>
+                    <ul>
+                        <li>AMD APU</li>
+                        <li>CPU: Zen 2 4c/8t, 2.4-3.5GHz (up to 448 GFlops FP32)</li>
+                        <li>GPU: 8 RDNA 2 CUs, 1.0-1.6GHz (up to 1.6 TFlops FP32)</li>
+                        <li>APU power: 4-15W</li>
+                    </ul>
+                </td>
+                <td>RAM</td>
+                <td>
+                    <ul>
+                        <li>16 GB LPDDR5 on-board RAM (5500 MT/s quad 32-bit channels)</li>
+                    </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>Storage</td>
+                <td>
+                    <ul>
+                        <li>64 GB eMMC (PCIe Gen 2 x1)</li>
+                        <li>256 GB NVMe SSD (PCIe Gen 3 x4 or PCIe Gen 3 x2*)</li>
+                        <li>512 GB high-speed NVMe SSD (PCIe Gen 3 x4 or PCIe Gen 3 x2*)
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th>Display</th>
+            </tr>
+            <td>Resolution</td>
+            <td>
+                <ul>
+                    <li>1280 x 800px (16:10 aspect ratio)</li>
+                </ul>
+            </td>
+        </table>
+      </div>
+    </section>
+    <section class="container"></section>
+    <section class="container"></section>
+    <footer></footer>
+  </body>
 </html>
