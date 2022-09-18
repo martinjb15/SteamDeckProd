@@ -18,11 +18,28 @@ nav{
     background-color: darkcyan;
 }
 .sdeckimg{
-    height: 100%;
+    height: auto;
 }
-#navlink{
-    text-align: right;
-    font-size: large;
+.navlink{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: larger;
+    margin-top: 0.5%;
+}
+.navlink li{
+    float: right;
+}
+.navlink li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+}
+.navlink li a:hover{
+    background-color: black;
 }
 header li{
     list-style: none;
