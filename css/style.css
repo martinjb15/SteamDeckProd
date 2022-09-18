@@ -25,6 +25,10 @@ header li{
     list-style: none;
     display: inline-block;
 } 
+.vgimg{
+    width: 100%;
+    height: auto;
+}
 /* response columns */
 .container {
     display: block;
