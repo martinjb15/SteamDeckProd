@@ -1,9 +1,13 @@
+*{
+    margin: 0;
+}
 body{
     background-color: black;
     color: white;
 }
 nav{
     background-color: #417a9b;
+    flex: auto;
 }
 .spacer{
     margin-left: 2%;
@@ -33,6 +37,7 @@ nav{
 }
 .navlink li{
     float: right;
+    
 }
 .navlink li a{
     display: block;
