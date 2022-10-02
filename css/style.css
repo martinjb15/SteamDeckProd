@@ -83,6 +83,9 @@ header li{
 .col-el {
     width: 75%;
 }
+.col-eel{
+    width: 100%;
+}
 footer{
     background-color: black;
 }
@@ -92,7 +95,8 @@ footer{
     .col-sm,
     .col-md,
     .col-lg,
-    .col-el {
+    .col-el,
+    .col-eel {
         width: 100%;
     }
 }
