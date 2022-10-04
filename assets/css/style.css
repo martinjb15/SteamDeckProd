@@ -52,6 +52,11 @@ nav{
 header li{
     list-style: none;
     display: inline-block;
+    display: flex;
+    top: 0px;
+    left: 0px;
+    position: sticky;
+    z-index: 999999;
 } 
 .vgimg{
     width: 100%;
