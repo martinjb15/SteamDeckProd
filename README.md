@@ -50,6 +50,12 @@ Typography:
 Navigation Bar:
 
 Testing Phase:
+desktop:
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194119334-bbaeeb45-9bfb-4541-99e5-9f23bbe9a0e9.png">
+mobile:
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194119877-24924a81-6866-4b5b-ae71-735ebfdabf7f.png">
+
+
 
 Deployment:
 ​
