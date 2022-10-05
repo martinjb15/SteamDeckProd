@@ -4,8 +4,8 @@
     font-family: 'Roboto', sans-serif; 
 }
 body{
-    background-color: black;
-    color: white;
+    background-color: rgb(2, 2, 2);
+    color: rgb(251, 251, 251);
 }
 nav{
     background-color: #417a9b;
@@ -20,16 +20,21 @@ nav{
     margin-bottom: 1%;
 }
 .sec1{
-    background-color: blueviolet;
+    background-color: rgb(138, 43, 226);
 }
 .sec2{
-    background-color: darkslategray;
+    background-color: rgb(47, 79, 79);
 }
 .sec3{
-    background-color: darkcyan;
+    background-color: rgb(1, 49, 49);
 }
 .sdeckimg{
     height: auto;
+}
+header{
+    position: sticky;
+    z-index: 999999;
+    top: 0;
 }
 .navlink{
     list-style-type: none;
@@ -38,6 +43,7 @@ nav{
     overflow: hidden;
     font-size: larger;
     margin-top: 0.5%;
+
 }
 .navlink li{
     float: right;
@@ -47,7 +53,7 @@ nav{
     display: block;
     color: white;
     text-align: center;
-    padding: 12px 14px;
+    padding: 0.7rem 0.8rem;
     text-decoration: none;
 }
 .navlink li a:hover{
@@ -57,10 +63,9 @@ header li{
     list-style: none;
     display: inline-block;
     display: flex;
-    top: 0px;
-    left: 0px;
-    position: sticky;
-    z-index: 999999;
+    top: 0;
+    left: 0;
+    
 } 
 .vgimg{
     width: 100%;
