@@ -51,9 +51,10 @@ Navigation Bar:
 
 Testing Phase:
 desktop:
-<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194119334-bbaeeb45-9bfb-4541-99e5-9f23bbe9a0e9.png">
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194344467-d7c8d9b3-593d-43f0-9deb-ce95e14aee69.png">
+
 mobile:
-<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194119877-24924a81-6866-4b5b-ae71-735ebfdabf7f.png">
+<img width="1112" alt="image" src="https://user-images.githubusercontent.com/30955225/194344125-35ed44ae-ca70-4dc4-9a7c-9491cfbcaaeb.png">
 
 
 
