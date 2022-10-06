@@ -14,6 +14,10 @@ nav{
 .spacer{
     margin-left: 2%;
 }
+video{
+    width:100%;
+    height:auto;
+}
 .center{
     text-align: center;
     margin-top: 2%;
