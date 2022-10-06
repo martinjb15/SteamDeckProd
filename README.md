@@ -93,6 +93,9 @@ This section is desined to walk through users, setting up remote play a few diff
 ![image](https://user-images.githubusercontent.com/30955225/194375312-4374ee06-923f-4510-b15a-4f302e63d832.png)
 ![image](https://user-images.githubusercontent.com/30955225/194375428-2de2f518-9cc1-48e5-a308-ca842f6e42f7.png)
 
+Footer
+The footer is socail link, that can be followed to learn more about the community for the steam deck 
+![image](https://user-images.githubusercontent.com/30955225/194376174-97880d9d-3cbc-4deb-bb54-e2e74a643255.png)
 
 Acknowledgements
 
