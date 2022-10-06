@@ -43,16 +43,9 @@ To offer the user an opportunity to get in contact​​ and learn more
 Color Scheme:
 
 Typography:
+Since this site is desinged as a know how and tech information, I used Roboto to keep a nice easy to read and simple design, with sans-serif as a backup. 
 
-Navigation Bar:
-Flexable navigation bar
-Brings you to each section when clicking on the nav item
 
-Desktop:
-<img width="1433" alt="image" src="https://user-images.githubusercontent.com/30955225/194359194-bd40f6d8-9cea-4557-ad60-6e15876d219b.png">
-Mobile:
-
-<img width="573" alt="image" src="https://user-images.githubusercontent.com/30955225/194359470-fd0a71b1-1044-4b76-b275-9134e8adcae9.png">
 
 Testing Phase:
 desktop:
@@ -73,8 +66,33 @@ https://martinjb15.github.io/SteamDeckProd/
 Tech: HTML, CSS​
 
 Content:
+Navigation Bar:
+Flexable navigation bar
+Brings you to each section when clicking on the nav item
 
+Desktop:
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/30955225/194359194-bd40f6d8-9cea-4557-ad60-6e15876d219b.png">
+Mobile:
+
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/30955225/194359470-fd0a71b1-1044-4b76-b275-9134e8adcae9.png">
 Media:
+ 
+Opening video to display the the overall useage of the steam deck
+![image](https://user-images.githubusercontent.com/30955225/194373858-635444b8-ee57-4760-bb28-8a7dbc2ea7da.png)
+
+Section 1
+this section outline the technical specification of the steam deck, this is usefull to know how the steam deck is going to run and how high you can play your games 
+![image](https://user-images.githubusercontent.com/30955225/194374311-be714192-d495-4049-9fa1-cae6d18e6167.png)
+
+Section 2 
+This section is desinged to show the user some of the top games they can play ! 
+![image](https://user-images.githubusercontent.com/30955225/194374681-b324d3e9-6cc0-4217-93fa-c34d41060295.png)
+
+Section 3 
+This section is desined to walk through users, setting up remote play a few different ways 
+![image](https://user-images.githubusercontent.com/30955225/194375312-4374ee06-923f-4510-b15a-4f302e63d832.png)
+![image](https://user-images.githubusercontent.com/30955225/194375428-2de2f518-9cc1-48e5-a308-ca842f6e42f7.png)
+
 
 Acknowledgements
 
