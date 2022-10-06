@@ -50,7 +50,8 @@ Brings you to each section when clicking on the nav item
 
 Desktop:
 <img width="1433" alt="image" src="https://user-images.githubusercontent.com/30955225/194359194-bd40f6d8-9cea-4557-ad60-6e15876d219b.png">
-Mobile
+Mobile:
+
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/30955225/194359470-fd0a71b1-1044-4b76-b275-9134e8adcae9.png">
 
 Testing Phase:
