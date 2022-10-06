@@ -8,7 +8,6 @@ Planning stage
 Target Audiences
 User Stories
 Site Aims
-Wireframes
 Color Scheme
 *Typography
 Testing Phase
@@ -41,8 +40,6 @@ To inform the user of the devices operational power
 To inform the user about what the steam deck can offer in portability 
 To offer the user an opportunity to get in contact​​ and learn more
 
-Wireframes:
-￼
 Color Scheme:
 
 Typography:
@@ -63,12 +60,9 @@ CSS Validator
 
 Deployment:
 ​ Deployed to github pages
+https://martinjb15.github.io/SteamDeckProd/
 
 Tech: HTML, CSS​
-
-Credits:
-
-Honorable mentions:
 
 Content:
 
