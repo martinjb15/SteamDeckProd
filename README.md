@@ -67,3 +67,7 @@ Tech: HTML, CSS​
 Content:
 
 Media:
+
+Acknowledgements
+
+Richard Wells - (mentor) for his invaluable input and advice
