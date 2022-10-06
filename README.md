@@ -41,6 +41,12 @@ To inform the user about what the steam deck can offer in portability
 To offer the user an opportunity to get in contact​​ and learn more
 
 Color Scheme:
+Site overall black background rgb(2, 2, 2); with white wording color: rgb(251, 251, 251);
+Section 1 rgb(138, 43, 226);
+Section 2 rgb(47, 79, 79);
+Section 3 rgb(1, 49, 49);
+
+These color schemes were chosen to to section out the content and make it more visually appealing to the user while keeping max accessability 
 
 Typography:
 Since this site is desinged as a know how and tech information, I used Roboto to keep a nice easy to read and simple design, with sans-serif as a backup. 
@@ -63,11 +69,18 @@ Deployment:
 ​ Deployed to github pages
 https://martinjb15.github.io/SteamDeckProd/
 
+I deployed the page on GitHub pages via the following procedure: - ​
+
+From the project's repository, go to the Settings tab.
+From the left-hand menu, select the Pages tab.
+Under the Source section, select the Main branch from the drop-down menu and click Save.
+A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+
 Tech: HTML, CSS​
 
 Content:
 Navigation Bar:
-Flexable navigation bar
+Flexable sticky navigation bar
 Brings you to each section when clicking on the nav item
 
 Desktop:
@@ -81,22 +94,40 @@ Opening video to display the the overall useage of the steam deck
 ![image](https://user-images.githubusercontent.com/30955225/194373858-635444b8-ee57-4760-bb28-8a7dbc2ea7da.png)
 
 Section 1
+
 this section outline the technical specification of the steam deck, this is usefull to know how the steam deck is going to run and how high you can play your games 
 ![image](https://user-images.githubusercontent.com/30955225/194374311-be714192-d495-4049-9fa1-cae6d18e6167.png)
 
 Section 2 
+
 This section is desinged to show the user some of the top games they can play ! 
 ![image](https://user-images.githubusercontent.com/30955225/194374681-b324d3e9-6cc0-4217-93fa-c34d41060295.png)
 
 Section 3 
+
 This section is desined to walk through users, setting up remote play a few different ways 
 ![image](https://user-images.githubusercontent.com/30955225/194375312-4374ee06-923f-4510-b15a-4f302e63d832.png)
 ![image](https://user-images.githubusercontent.com/30955225/194375428-2de2f518-9cc1-48e5-a308-ca842f6e42f7.png)
 
 Footer
+
 The footer is socail link, that can be followed to learn more about the community for the steam deck 
 ![image](https://user-images.githubusercontent.com/30955225/194376174-97880d9d-3cbc-4deb-bb54-e2e74a643255.png)
+
+Bugs:
+zooming in past 170% brakes the format
+The nav bar does overtakes some of the test when clicked in mobile mode
+
+Future Improvments:
+Add more pages with content about modification of the steam deck
+zooming in on content will be a better flow 
+add a contact us/user blog that people can reply to or join in with thier knowledge
+
 
 Acknowledgements
 
 Richard Wells - (mentor) for his invaluable input and advice
+
+Media:
+
+https://store.steampowered.com/steamdeck
