@@ -62,7 +62,6 @@ These color schemes were chosen to to section out the content and make it more v
   * Sans-serif- as a backup if Roboto was no longer available
 ​
 * These were selected as they give a very easy to read font that is inline with tech articles
-* All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
 #### *Navigation Bar:*
