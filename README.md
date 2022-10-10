@@ -73,15 +73,20 @@ These color schemes were chosen to to section out the content and make it more v
 
 #### *Tech Specs:*
 * This section outline the technical specification of the steam deck, this is usefull to know how the steam deck is going to run and how high you can play your games 
+* They UI is deisnged to be a simple grid, with the most important specs needed for the steam deck
+* The information is consise to stop information overload
 ![image](https://user-images.githubusercontent.com/30955225/194374311-be714192-d495-4049-9fa1-cae6d18e6167.png)
 
 
 #### *Verified Games:*
 * This section is desinged to show the user some of the top games they can play ! 
+* this shows a small overview of what verified games are
+* The image links of three by two is diesined to give the user a better viewing experence when selecting what game they would like to look at
 ![image](https://user-images.githubusercontent.com/30955225/194374681-b324d3e9-6cc0-4217-93fa-c34d41060295.png)
 
 #### *Extras:*
 * This section is desined to walk through users, setting up remote play a few different ways 
+* Screenshots are taken to give the user a better understanding if they are following the instructions correctly  
 ![image](https://user-images.githubusercontent.com/30955225/194375312-4374ee06-923f-4510-b15a-4f302e63d832.png)
 ![image](https://user-images.githubusercontent.com/30955225/194375428-2de2f518-9cc1-48e5-a308-ca842f6e42f7.png)
 
