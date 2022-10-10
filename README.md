@@ -75,7 +75,7 @@ These color schemes were chosen to to section out the content and make it more v
 * This section outline the technical specification of the steam deck, this is usefull to know how the steam deck is going to run and how high you can play your games 
 * They UI is deisnged to be a simple grid, with the most important specs needed for the steam deck
 * The information is consise to stop information overload
-![image](https://user-images.githubusercontent.com/30955225/194374311-be714192-d495-4049-9fa1-cae6d18e6167.png)
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/30955225/194787885-da57ccaa-8901-4f25-82c6-90ac519d8948.png">
 
 
 #### *Verified Games:*
