@@ -14,9 +14,9 @@ This is a site to outline the benefit's of a portable pc like the steam deck. It
     * [***Color Scheme***](#color-scheme)
     * [***Typography**](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
-    * [***Header Element***](#header-element)
-    * [***Tech Specs***](#Tech)
-    * [***Verified Games***](#Verified)
+    * [***Navigation Bar***](#Navigation-Bar)
+    * [***Tech Specs***](#Tech-Specs)
+    * [***Verified Games***](#Verified-Games)
     * [***Extras***](#Extras)
     * [**Footer**](#footer)
 1. [**Future-Enhancements**](#future-enhancements)
@@ -25,8 +25,6 @@ This is a site to outline the benefit's of a portable pc like the steam deck. It
 1. [**Tech**](#tech)
 1. [**Credits**](#credits)
     * [**Honorable mentions**](#honorable-mentions)
-    * [**General reference**](#general-reference)
-    * [**Content**](#content)
     * [**Media**](#media)
 ​
 ## **Planning stage**
@@ -67,7 +65,6 @@ These color schemes were chosen to to section out the content and make it more v
 * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
-#### *Header
 #### *Navigation Bar:*
 ​
 * The user is given links to each section of the page
@@ -75,22 +72,21 @@ These color schemes were chosen to to section out the content and make it more v
 * The Navigation sticks to the op of the screen to allow the user to always navigate
 <img width="1433" alt="image" src="https://user-images.githubusercontent.com/30955225/194359194-bd40f6d8-9cea-4557-ad60-6e15876d219b.png">
 
-#### *Tech
 #### *Tech Specs:*
 * This section outline the technical specification of the steam deck, this is usefull to know how the steam deck is going to run and how high you can play your games 
 ![image](https://user-images.githubusercontent.com/30955225/194374311-be714192-d495-4049-9fa1-cae6d18e6167.png)
 
-#### *Verified
+
 #### *Verified Games:*
 * This section is desinged to show the user some of the top games they can play ! 
 ![image](https://user-images.githubusercontent.com/30955225/194374681-b324d3e9-6cc0-4217-93fa-c34d41060295.png)
-#### *Extras
+
 #### *Extras:*
 * This section is desined to walk through users, setting up remote play a few different ways 
 ![image](https://user-images.githubusercontent.com/30955225/194375312-4374ee06-923f-4510-b15a-4f302e63d832.png)
 ![image](https://user-images.githubusercontent.com/30955225/194375428-2de2f518-9cc1-48e5-a308-ca842f6e42f7.png)
 
-#### *Footer
+
 #### *Footer:*
 * The footer is socail link, that can be followed to learn more about the community for the steam deck 
 ![image](https://user-images.githubusercontent.com/30955225/194376174-97880d9d-3cbc-4deb-bb54-e2e74a643255.png)
